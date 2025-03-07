@@ -5,13 +5,13 @@
   },
   "data": [
     {
-        "name": "LxManga",
-        "author": "vude29",
-        "path": "https://raw.githubusercontent.com/vuhien29/vbook/main/LX/plugin.zip",
+        "name": "Sayhentai",
+        "author": "vuhien29",
+        "path": "https://raw.githubusercontent.com/vuhien29/main/main/sayhentai/plugin.zip",
         "version": 13,
-        "source": "https://lxmanga.art",
-        "icon": "https://raw.githubusercontent.com/vude29/vbook/main/LX/icon.png",
-        "description": "Đọc truyện trên trang LxManga",
+        "source": "https://sayhentai.ink",
+        "icon": "https://raw.githubusercontent.com/vude29/main/main/sayhentai/icon.png",
+        "description": "Đọc truyện trên trang Say hentai",
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
