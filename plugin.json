@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "vuhien29",
+    "description": "Thích là nhích ^^!"
+  },
+  "data": [
+    {
+        "name": "LxManga",
+        "author": "vude29",
+        "path": "https://raw.githubusercontent.com/vuhien29/vbook/main/LX/plugin.zip",
+        "version": 13,
+        "source": "https://lxmanga.art",
+        "icon": "https://raw.githubusercontent.com/vude29/vbook/main/LX/icon.png",
+        "description": "Đọc truyện trên trang LxManga",
+        "tag": "nsfw",
+        "type": "comic",
+        "locale": "vi_VN"
+    }]
+}
