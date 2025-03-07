@@ -5,5 +5,6 @@ function execute() {
         { title: "Manhwa", input: BASE_URL + "/genre/manhwa", script: "gen.js" },
         { title: "Manga", input: BASE_URL + "/genre/manga", script: "gen.js" },
         { title: "Manhua", input: BASE_URL + "/genre/manhua", script: "gen.js" },
+        { title: "Thể loại", input: BASE_URL + "/genre", script: "gen.js" },
     ]);
 }
