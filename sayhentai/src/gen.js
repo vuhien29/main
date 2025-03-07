@@ -1,7 +1,7 @@
 load('config.js');
 function execute(url, page) {
     if (!page) page = '1';
-    let response = fetch(url, {
+    let response = fetch(BASE_URL+'/genre, {
         method: "GET",
         queries: {
             page : page
